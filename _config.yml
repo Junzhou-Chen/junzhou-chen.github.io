@@ -183,7 +183,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -199,9 +199,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -240,7 +240,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: News
     values:
       layout: talk
       author_profile: true
