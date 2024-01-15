@@ -24,7 +24,8 @@ paperurl: 'https://arxiv.org/pdf/2308.03382.pdf'
 
 
  [Download paper here](https://arxiv.org/pdf/2308.03382.pdf)
-```bibtex
+ 
+```
 @article{chen2023enhancing,
   title={Enhancing Nucleus Segmentation with HARU-Net: A Hybrid Attention Based Residual U-Blocks Network},
   author={Chen, Junzhou and Huang, Qian and Chen, Yulin and Qian, Linyi and Yu, Chengyuan},

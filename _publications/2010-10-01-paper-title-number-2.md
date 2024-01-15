@@ -2,13 +2,14 @@
 title: "Novel distributed multi-camera fusion positioning and mapping system and method"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Yang Wu, Junzhou Chen, Ziye Wang, Zhengyang Wei, Xuebin Ruan'
+excerpt: 'Yang Wu, **Junzhou Chen**, Ziye Wang, Zhengyang Wei, Xuebin Ruan'
 date: 2022-4-01
-venue: 'Patent'
+venue: 'Patent CN 114943771'
 paperurl: 'https://patentimages.storage.googleapis.com/d3/da/ad/fb6ab327187c1e/CN114943771A.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
+Yang Wu, **Junzhou Chen**, Ziye Wang, Zhengyang Wei, Xuebin Ruan
 
 ## Abstract
 

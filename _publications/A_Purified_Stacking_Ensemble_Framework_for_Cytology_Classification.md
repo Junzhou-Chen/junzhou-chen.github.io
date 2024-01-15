@@ -36,6 +36,6 @@ Cancer is one of the fatal threats to human beings. However, early detection and
   <strong>Comparison with other methods. </strong> <br style="margin-bottom: 10px;"> Comparison with other methods, where P represents the number of parameters, S represents inference speed, Acc represents accuracy, Pre represents precision and Rec represents recall.</p>
 </div>
 
-[Paper download here](/files/A_Purified_Stacking_Ensemble_Framework_for_Cytology_Classification.pdf)
+[Paper download here](https://junzhou-chen.github.io/files/A_Purified_Stacking_Ensemble_Framework_for_Cytology_Classification.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
