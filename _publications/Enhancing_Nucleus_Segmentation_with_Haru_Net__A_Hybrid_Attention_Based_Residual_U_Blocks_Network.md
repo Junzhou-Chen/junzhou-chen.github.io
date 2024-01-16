@@ -3,7 +3,7 @@ title: "Enhancing Nucleus Segmentation with Haru-Net: A Hybrid Attention Based R
 collection: publications
 permalink: /publication/Enhancing_Nucleus_Segmentation_with_Haru_Net__A_Hybrid_Attention_Based_Residual_U_Blocks_Network
 excerpt: '**Junzhou Chen**, Qian Huang, Yulin Chen, Linyi Qian, Chengyuan Yu'
-date: 2023-8-01
+date: 2024-5-03
 venue: 'Under review'
 paperurl: 'https://arxiv.org/pdf/2308.03382.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'

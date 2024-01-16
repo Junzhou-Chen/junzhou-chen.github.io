@@ -12,29 +12,21 @@ redirect_from:
 Education
 ======
 * B.S. in Artifical Science and Technology, Hohai University, 2020 - 2024
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Xuanjia Ling Technology Co., Ltd: Product manager & Chief financial officer
+  * As a college student entrepreneur, my primary responsibility is to commercialize our team’s product, the ”Canine Interactive Vest” for police dogs.
+  * I am responsible for product data processing, practical and ergonomic design, as well as product marketing.
+  * As the entrepreneurial journey continues, I have accumulated extensive experience in product design and development. I have gained a thorough understanding of the complete product development process through practical implementation.
 
-* Fall 2015: Research Assistant
+* College of William & Marry: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -42,17 +34,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======

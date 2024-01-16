@@ -38,4 +38,3 @@ Cancer is one of the fatal threats to human beings. However, early detection and
 
 [Paper download here](https://junzhou-chen.github.io/files/A_Purified_Stacking_Ensemble_Framework_for_Cytology_Classification.pdf)
 
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
