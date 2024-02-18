@@ -37,4 +37,4 @@ venue: 'IEEE International Conference on Mobility: Operations, Services, and Tec
   <strong>Comparison with other methods. </strong> <br style="margin-bottom: 10px;">  Our method compared with RL and MPC in three scenarios: roundabout, intersection, and highway. In these examples, RL, motivated by time incentives, led to overly aggressive driving and resulted in rear-end collisions. MPC, on the other hand, was unable to predict many uncommon situations, leading to task failures.</p>
 </div>
 
-Paper will published soon.
+The paper has been accepted now and will published soon.
