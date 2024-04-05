@@ -12,8 +12,6 @@ Greetings! I am Junzhou Chen a senior student pursuing a Bachelor’s degree in 
 
 # News
 
-- Attempt to explore the feasibility of multimodal large language models in the field of autonomous driving.
-- One paper was accepted by [MOST 2024](https://ieeemobility.org/MOST2024/).
 - I have received a PhD offer from [The College of William and Mary](https://www.wm.edu/).
 - ...
 
