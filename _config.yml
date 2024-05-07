@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Junzhou chen"
   avatar           : "OIP.jpg"
-  bio              : "Research assistant at W&M. Research in Autonomous Driving, Robotics, and Medical Image."
+  bio              : "Ph.D student at William & Mary is about to enroll. Research in Autonomous Driving, Robotics, and Medical Image."
   location         : "Nanjing China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PiNGju0AAAAJ&hl=en"
   email            : "junzhouchen7@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Junzhou-Chen-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,19 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "https://orcid.org/0009-0001-6466-9470"
+  orcid            : "https://orcid.org/0009-0001-6466-9470"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "1126049789"
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             :
+  xing             : "cjz1374709124"
   youtube          :
   wikipedia        :
-  wechat           : cjz1374709124
+  wechat           : "cjz1374709124"
 
 
 # Reading Files

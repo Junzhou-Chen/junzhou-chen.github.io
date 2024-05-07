@@ -4,10 +4,10 @@ Large Language Model for Autonomous Vehicles"
 collection: publications
 permalink: /publication/An_Advanced_Driving_Agent_with_the_Multimodal_Large_Language_Model_for_Autonomous_Vehicles
 excerpt: '**Junzhou Chen** and Sidi Lu'
-date: 2024-5-04
+date: 2024-5-06
 venue: 'IEEE International Conference on Mobility: Operations, Services, and Technologies'
 # image: /images/Snipaste_2024-01-15.png
-# paperurl: '/files/An_Advanced_Driving_Agent_with_the_Multimodal_Large_Language_Model_for_Autonomous_Vehicles.pdf'
+paperurl: '/files/An_Advanced_Driving_Agent_with_the_Multimodal_Large_Language_Model_for_Autonomous_Vehicles.pdf'
 
 ---
 
@@ -37,4 +37,4 @@ venue: 'IEEE International Conference on Mobility: Operations, Services, and Tec
   <strong>Comparison with other methods. </strong> <br style="margin-bottom: 10px;">  Our method compared with RL and MPC in three scenarios: roundabout, intersection, and highway. In these examples, RL, motivated by time incentives, led to overly aggressive driving and resulted in rear-end collisions. MPC, on the other hand, was unable to predict many uncommon situations, leading to task failures.</p>
 </div>
 
-The paper has been accepted now and will published soon.
+[Paper download here](An_Advanced_Driving_Agent_with_the_Multimodal_Large_Language_Model_for_Autonomous_Vehicles.pdf)
