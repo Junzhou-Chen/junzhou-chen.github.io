@@ -2,7 +2,7 @@
 title: "Review of cervical cell segmentation"
 collection: publications
 permalink: /publication/Review_of_cervical_cell_segmentation
-excerpt: '**Junzhou Chen**, Qian Huang, Yulin Chen, Linyi Qian, Chengyuan Yu'
+excerpt: 'Qian Huang, Wei Zhang, Yulin Chen, **Junzhou Chen**, and Zheng Yang'
 date: 2024-8-02
 venue: ' Multimedia Tools and Applications'
 paperurl: 'https://link.springer.com/article/10.1007/s11042-024-19799-0'
