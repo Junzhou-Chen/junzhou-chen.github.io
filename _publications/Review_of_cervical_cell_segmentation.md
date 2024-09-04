@@ -17,7 +17,7 @@ Cervical cell segmentation is a significant task in medical image analysis and c
 
 
 
- [Download paper here](Review_of_cervical_cell_segmentation.pdf)
+ [Download paper here](https://link.springer.com/content/pdf/10.1007/s11042-024-19799-0.pdf)
  
 ```
 @article{huang2024review,
