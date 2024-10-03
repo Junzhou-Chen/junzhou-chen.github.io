@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, William & Mary, 2024 - Present
 * B.S. in Artifical Science and Technology, Hohai University, 2020 - 2024
 
 

@@ -13,9 +13,9 @@ Greetings! I am Junzhou Chen, a first-year Ph.D. student at [William & Mary](htt
 
 # News
 
+- One co-author paper was accepted by [IEEE SEC](https://acm-ieee-sec.org/2024/)!
 - Summer Research Intern at [The CAR Lab](https://www.thecarlab.org/home).
 - Give a presentation at [MOST 2024](https://ieeemobility.org/MOST2024/).
 - Get Ph.D offer from [William & Mary](https://www.wm.edu/)!
 - One paper was accepted by [MOST 2024](https://ieeemobility.org/MOST2024/).
-- Expore more posibility about Large Langue Model for Autonomous Driving.
 - ...

@@ -11,7 +11,6 @@ paperurl: 'https://link.springer.com/article/10.1007/s11042-024-19799-0'
 
 Qian Huang, Wei Zhang, Yulin Chen, **Junzhou Chen**, and Zheng Yang
 
-
 ## Abstract
 Cervical cell segmentation is a significant task in medical image analysis and can be used for screening various cervical diseases. In recent years, substantial progress has been made in cervical cell segmentation techniques, leading to notable improvements in the performance of cervical cancer auxiliary diagnostic systems. This review summarizes and analyzes the recent research on cervical cell segmentation. The main contents include an introduction to cervical cell segmentation datasets, commonly used evaluation metrics, and various segmentation methods. Currently, mainstream segmentation methods can be classified into two categories: traditional and deep learning-based. Building upon this foundation, we unfold according to the context of segmentation objectives, evaluating the performance of each method in achieving specific segmentation objectives and exploring the relationships among different methods. Through this review, other researchers can clearly understand the development of cervical cell segmentation technology and future trends, and explore new methods and technologies based on integrating and sorting out existing technologies, so as to help cervical cancer auxiliary diagnosis systems achieve more accurate cell image segmentation.
 
