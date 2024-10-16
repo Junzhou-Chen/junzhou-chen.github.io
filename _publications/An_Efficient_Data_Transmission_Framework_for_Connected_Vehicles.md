@@ -5,7 +5,7 @@ permalink: /publication/An_Efficient_Data_Transmission_Framework_for_Connected_V
 excerpt: 'Yichen Luo, Yongtao Yao, **Junzhou Chen**, Sidi Lu, Weisong Shi'
 date: 2024-12-07
 venue: '9th ACM/IEEE Symposium on Edge Computing'
-image: /images/Snipaste_2024-01-15.png
+image: /images/bigFramework.png
 paperurl: '/files/An_Efficient_Data_Transmission_Framework_for_Connected_Vehicles.pdf'
 
 ---
@@ -15,8 +15,7 @@ Yichen Luo, Yongtao Yao, **Junzhou Chen**, Sidi Lu, Weisong Shi
 ## Abstract
 
 Connected vehicles (CVs) face significant challenges in continuous big data transmission, resulting in high transmission bandwidth costs and impacting real-time decision-making. To address this, we propose two dynamic, driving-aware compression mechanisms based on reinforcement learning and temporal compressive sensing to intelligently compress video data. These mechanisms adapt to driving conditions, reducing bandwidth while preserving sufficient information for accurate applications such as object detection and ensuring high-quality reconstruction when needed. We also implement a Vehicle-EdgeServer-Cloud (VEC) closed-loop framework that integrates these mechanisms. Specifically, a lightweight vehicle model performs real-time detection on compressed data (measurements), while the EdgeServer receives measurements and reconstructs scenes if needed. The measurements, reconstructed video, and analysis results are then sent to the cloud for vehicle model updates. Unlike conventional methods, our framework seamlessly adapts across vehicles, EdgeServers, and the cloud, supporting efficient data transmission and dynamic model updates. Extensive evaluations were conducted on our designed roadside unit platform and robotic vehicle, both equipped with industry-grade sensors and computing units. The results demonstrate an 18$\times$ reduction in bandwidth at 320KB/s while maintaining high detection accuracy and reconstruction quality compared to non-adaptive measurements, highlighting the framework's promising real-world applications for CVs.
-<!-- ![fig3](/images/Snipaste_2024-01-15.png)
-<center> The overall workflow of the purified Stacking ensemble, where KFSC represents k-fold split and concatenation, DW-Voting represents distance weighted voting and MLR with AW-Softmax represents multinomial logistic regression model with adaptive weighted softmax loss function.</center> -->
+
 <div style="border: 1px solid #ccc; padding: 8px; margin-bottom: 20px;">
   <img src="../images/bigFramework.png" alt="">
   <br>
@@ -27,5 +26,4 @@ Connected vehicles (CVs) face significant challenges in continuous big data tran
 <par>
 <par>
 
-[Paper download here](https://junzhou-chen.github.io/files/An_Efficient_Data_Transmission_Framework_for_Connected_Vehicles.pdf)
 
