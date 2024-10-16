@@ -27,13 +27,5 @@ Connected vehicles (CVs) face significant challenges in continuous big data tran
 <par>
 <par>
 
-
-<div style="border: 1px solid #ccc; padding: 8px; margin-bottom: 20px;">
-  <img src="../images/CI.png" alt="">
-  <br>
-  <p style="margin-top: 10px;margin-bottom: 5px;"> 
-  <strong>The pipeline of temporal compressive sensing (TCS). </strong>
-</div>
-
 [Paper download here](https://junzhou-chen.github.io/files/An_Efficient_Data_Transmission_Framework_for_Connected_Vehicles.pdf)
 
