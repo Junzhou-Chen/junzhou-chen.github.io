@@ -36,6 +36,10 @@ Publications
   {% endfor %}</ul>
   
 
+Scholarship
+======
+* International international students opportunity scholarship
+* Science and technology innovation scholarship
 
 Awards
 ======
@@ -63,7 +67,7 @@ Awards
 
   National Third Prize
 
-* Science and technology innovation scholarship
+
 
 # Projects
 
