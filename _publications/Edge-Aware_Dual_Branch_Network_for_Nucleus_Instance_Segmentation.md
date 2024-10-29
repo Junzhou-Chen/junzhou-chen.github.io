@@ -5,7 +5,7 @@ permalink: /publication/Edge-Aware_Dual_Branch_Network_for_Nucleus_Instance_Segm
 excerpt: '**Junzhou Chen**, Yanfu Zhang, Sidi Lu'
 date: 2024-12-3
 venue: ' International Workshop on Edge Intelligence at the IEEE SEC'
-paperurl: ''
+paperurl: '/files/Edge-Aware_Dual_Branch_Network_for_Nucleus_Instance_Segmentation.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
@@ -16,7 +16,7 @@ In mobile healthcare and remote diagnosis, nucleus segmentation is a critical st
 
 
 
-[Download paper here](../file/Edge-Aware_Dual_Branch_Network_for_Nucleus_Instance_Segmentation.pdf)
+[Download paper here](https://junzhouchen.com/files/Edge-Aware_Dual_Branch_Network_for_Nucleus_Instance_Segmentation.pdf)
  
 
 
