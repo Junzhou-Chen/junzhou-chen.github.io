@@ -16,7 +16,7 @@ In mobile healthcare and remote diagnosis, nucleus segmentation is a critical st
 
 
 
-[Download paper here](Edge-Aware_Dual_Branch_Network_for_Nucleus_Instance_Segmentation.pdf)
+[Download paper here](file/Edge-Aware_Dual_Branch_Network_for_Nucleus_Instance_Segmentation.pdf)
  
 
 

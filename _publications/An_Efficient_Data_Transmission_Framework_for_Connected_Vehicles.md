@@ -3,7 +3,7 @@ title: "An Efficient Data Transmission Framework for Connected Vehicles"
 collection: publications
 permalink: /publication/An_Efficient_Data_Transmission_Framework_for_Connected_Vehicles
 excerpt: 'Yichen Luo, Yongtao Yao, **Junzhou Chen**, Sidi Lu, Weisong Shi'
-date: 2024-12-07
+date: 2024-12-03
 venue: '9th ACM/IEEE Symposium on Edge Computing'
 image: /images/bigFramework.png
 paperurl: '/files/An_Efficient_Data_Transmission_Framework_for_Connected_Vehicles.pdf'
