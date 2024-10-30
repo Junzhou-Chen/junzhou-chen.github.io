@@ -91,6 +91,8 @@ In this project, the difficult problem is on cell segmentation in Barr’s cell 
 
 This project is an innovation and entrepreneurship project for college students, the research centers on the key technology of building intelligent networked vehicle-road cooperative system for intelligent transportation and algorithmic practice, combining “smart car” and “smart road” together, realizing the intelligent interconnection between car and car and car and road. The project is based on the Linux system and ROS framework, primarily utilizing C++ and Python for implementation. In this project, I mainly contributed in the tuning PID parameters of the vehicles, analyzing and controlling vehicle dynamics, and designing a QR code recognition system on the top of the vehicles to establish a foundation for visual identification and localization.
 
+Project demo link: []()
+
 ![](../images/robot.jpg)
 
 
