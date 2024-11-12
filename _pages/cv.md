@@ -43,6 +43,8 @@ Scholarship
 
 Awards
 ======
+* Best Poster Award @ 2024 Graduate Symposium
+
 * National College Students’ innovation and entrepreneurship training program 2022 
 
   National Excellent Completion
