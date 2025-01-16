@@ -43,6 +43,8 @@ Scholarship
 
 Awards
 ======
+* NSF Student Travel Grant Award
+
 * Best Poster Award @ 2024 Graduate Symposium
 
 * National College Students’ innovation and entrepreneurship training program 2022 
