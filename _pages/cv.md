@@ -43,7 +43,7 @@ Scholarship
 
 Awards
 ======
-* NSF Student Travel Grant Award
+* NSF Student Travel Grant Award for 2024 ACM/IEEESymposium on Edge Computing
 
 * Best Poster Award @ 2024 Graduate Symposium
 

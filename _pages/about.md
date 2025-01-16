@@ -13,7 +13,7 @@ Greetings! I am Junzhou Chen, a first-year Ph.D. student at [William & Mary](htt
 
 # News
 
-- I have awarded the **NSF Student Travel Grant Award for** 2024 ACM/IEEESymposium on Edge Computing
+- I have awarded the **NSF Student Travel Grant Award** for 2024 ACM/IEEESymposium on Edge Computing
 - I have awarded the **Best Poster Award** at 2024 Graduate Symposium!
 - I have awarded the **International Student Opportunity Scholarship**. Thanks to the generous contributions from alumni and friends of the university!
 - One first author paper was accepted by [International Workshop on Edge Intelligence at the IEEE SEC](https://acm-ieee-sec.org/2024/)!
