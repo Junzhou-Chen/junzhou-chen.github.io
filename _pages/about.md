@@ -13,7 +13,7 @@ Greetings! I am Junzhou Chen, a first-year Ph.D. student at [William & Mary](htt
 
 # News
 
-- One second paper was accepted by [ACM Sensys 2025](https://sensys.acm.org/2025/)
+- One second author paper was accepted by [ACM Sensys 2025](https://sensys.acm.org/2025/)
 - I have awarded the **NSF Student Travel Grant Award** for 2024 ACM/IEEESymposium on Edge Computing
 - I have awarded the **Best Poster Award** at 2024 Graduate Symposium!
 - I have awarded the **International Student Opportunity Scholarship**. Thanks to the generous contributions from alumni and friends of the university!
