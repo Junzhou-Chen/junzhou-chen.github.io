@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Mitigating_In-Transit_Vision_Noise_for_Enhanced_Vehicle_Safety
 excerpt: 'Yichen Luo, **Junzhou Chen**, Xinyu Chen, Sidi Lu'
 date: 2025-2-25
-venue: 'ACM Sensys 2025'
+venue: 'ACM Conference on Embedded Networked Sensor Systems'
 image: /images/Snipaste_2024-01-15.png
 paperurl: '/files/Mitigating_In-Transit_Vision_Noise_for_Enhanced_Vehicle_Safety.pdf'
 
