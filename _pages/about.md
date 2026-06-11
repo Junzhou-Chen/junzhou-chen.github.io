@@ -13,6 +13,7 @@ Greetings! I am Junzhou Chen, a second-year Ph.D. student at [William & Mary](ht
 
 # News
 
+- One first author paper was accepted by [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://2026.ieee-iros.org/)
 - One second author paper was accepted by [ACM Sensys 2025](https://sensys.acm.org/2025/)
 - I have awarded the **NSF Student Travel Grant Award** for 2024 ACM/IEEESymposium on Edge Computing
 - I have awarded the **Best Poster Award** at 2024 Graduate Symposium!
