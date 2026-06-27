@@ -2,7 +2,7 @@
 title: "Fast Enough to Act Spatio-Temporal Visual Token Merging for Low-Latency Robotic VLMs and VLAs"
 collection: publications
 permalink: /publication/Fast_Enough_to_Act__Spatio-Temporal_Visual_Token_Merging_for_Low-Latency_Robotic_VLMs_and_VLAs
-excerpt: '**Junzhou Chen**, Jindong Wang, Zhou Gang'
+excerpt: '**Junzhou Chen**, Jindong Wang, Gang Zhou'
 date: 2026-6-16
 venue: 'The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026'
 image: /images/pipline_fast_VLA.svg
@@ -10,7 +10,7 @@ paperurl: '/files/Fast_Enough_to_Act__Spatio-Temporal_Visual_Token_Merging_for_L
 
 ---
 
-**Junzhou Chen**, Jindong Wang, Zhou Gang
+**Junzhou Chen**, Jindong Wang, Gang Zhou
 
 ## Abstract
 
